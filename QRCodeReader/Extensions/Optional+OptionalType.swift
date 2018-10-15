@@ -3,7 +3,7 @@
 //  QRCodeReader
 //
 //  Created by Vsevolod Onishchenko on 15.10.2018.
-//  Copyright © 2018 AppCoda. All rights reserved.
+//  Copyright © 2018 OneActionApp. All rights reserved.
 //
 
 import Foundation
